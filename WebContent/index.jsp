@@ -41,6 +41,7 @@
 					href="https://giphy.com/gifs/spongebob-squarepants-patrick-bSa7cOkZ2pG2A"></a>
 			</p>
 		</div>
+		
 		${welcomes }
 		<h1> Hi ${fName}</h1>
 		Username: ${user }<br>
